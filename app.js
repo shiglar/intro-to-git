@@ -1,3 +1,1 @@
-console.log("This is my comples app!");
-console.log("Another log!");
-hffffkftkfjlhjljhvtftykgi
+console.log("This is my complex app!");
